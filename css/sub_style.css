@@ -1,0 +1,72 @@
+#wrap{}
+#header{}
+#section{}
+#footer{}
+
+
+
+#header .sub_nav{
+    color: #000;
+}
+
+
+
+/*********************section****************************/
+#sub_sec1 .stay{
+    padding-top: 215px;
+    margin-bottom: 90px;
+}
+#sub_sec1 .stay dt{
+    display: block;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+#sub_sec1 .stay dd{
+    font-size: 30px;
+    line-height: 45px;
+}
+#sub_sec1 .choice_box{
+    width: 1380px;
+    height: 2130px;
+}
+#sub_sec1 .choice1{
+    width: 1380px;
+    height: 875px;
+    margin-bottom:240px;
+    overflow: hidden;
+}
+#sub_sec1 .choice_img{
+    width: 50.7%;
+    float: left;
+    max-width: 699px;
+}
+
+#sub_sec1 .choice_img img{
+    width: 100%;
+}
+
+#sub_sec1 .choice_tit{
+    float: right;
+    width: 49.3%;
+    height: 875px;
+    text-align: right;
+}
+#sub_sec1 .cho_tit h2{
+    display: block;
+    font-size:48px;
+    padding: 97px 0 36px;
+    line-height: 1.2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
